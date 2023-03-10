@@ -5,10 +5,10 @@ VALUES (1, 'Tyler Chessa', 'tylerchessa@gmail.com', '$2a$10$FB/BOAVhpuLvpOREQVmv
 (4, 'Mister Blue', 'misterblue@gmail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u');
 
 INSERT INTO properties 
-VALUES (1, 1, 'yaletown apartment', 'description', 'thumbnail photo', 'cover photo', 300, 1, 2, 2, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true),
-(2, 2, 'mount pleasant apartment', 'description', 'thumbnail photo', 'cover photo', 250, 1, 1, 1, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true),
-(3, 3, 'white rock apartment', 'description', 'thumbnail photo', 'cover photo', 200, 1, 1, 1, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true),
-(4, 4, 'west van house', 'description', 'thumbnail photo', 'cover photo', 1000, 4, 4, 5, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true);
+VALUES (1, 1, 'yaletown apartment', 'description', 'thumbnail photo', 'cover photo', 30000, 1, 2, 2, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true),
+(2, 2, 'mount pleasant apartment', 'description', 'thumbnail photo', 'cover photo', 25000, 1, 1, 1, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true),
+(3, 3, 'white rock apartment', 'description', 'thumbnail photo', 'cover photo', 20000, 1, 1, 1, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true),
+(4, 4, 'west van house', 'description', 'thumbnail photo', 'cover photo', 100000, 4, 4, 5, 'canada', 'homer', 'vancouver', 'bc', 'v6b5t5', true);
 
 
 INSERT INTO reservations
