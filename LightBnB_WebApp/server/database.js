@@ -216,6 +216,9 @@ exports.getAllProperties = getAllProperties;
  */
 const addProperty = function(property) {
   const queryParams = []
+  if (Object.keys(property).length !== 14) {
+    return console.log('property does not have 14 values')
+  }
   for (let key in property) {
     console.log(queryParams)
     queryParams.push(property[key])
